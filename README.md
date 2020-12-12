@@ -1,2 +1,2 @@
 # Event-Center
-First React App 
+First React App Event Center
